@@ -1,0 +1,19 @@
+.nav-bar {
+    display: flex;
+    background-color: rgb(68, 100, 162);
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 12px;
+    justify-content: center;
+    font-family: "San Francisco", sans-serif;
+    color: white;
+    height: 42px;
+}
+
+.logo {
+    border: 1px solid white;
+}
+
+.options {
+    border: 1px solid white;
+}
