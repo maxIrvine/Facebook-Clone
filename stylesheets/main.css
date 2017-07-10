@@ -13,7 +13,6 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    border: 1px solid white;
 }
 
 .options {
@@ -41,4 +40,8 @@
 
 .stuff {
     padding-right: 25px;
+}
+
+.profile {
+    padding-top: 30px;
 }
