@@ -61,3 +61,20 @@
 .live-video {
     margin-left: -10px;
 }
+
+.post-message {
+    margin-left: -30px;
+}
+
+.photo-video {
+    margin-left: -35px;
+}
+
+.feeling-activity {
+    margin-left: -30px;
+}
+
+.dots {
+    padding-top: 8px;
+    margin-left: -15px;
+}
