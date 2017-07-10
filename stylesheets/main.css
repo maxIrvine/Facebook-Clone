@@ -17,8 +17,7 @@
 
 .options {
     display: flex;
-    justify-content: flex-end;
-    
+    justify-content: flex-end; 
     align-items: center;
 }
 
@@ -39,9 +38,26 @@
 }
 
 .stuff {
-    padding-right: 25px;
+    padding-right: 40px;
 }
 
 .profile {
     padding-top: 30px;
+}
+
+.feed {
+    border: 1px solid black;
+}
+
+.create-a-post {
+    margin-left: -50px;
+    padding-top: 1px;
+}
+
+.photo-video-album {
+    margin-left: -50px;
+}
+
+.live-video {
+    margin-left: -10px;
 }
