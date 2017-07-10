@@ -17,7 +17,10 @@
 }
 
 .options {
-    border: 1px solid white;
+    display: flex;
+    justify-content: flex-end;
+    
+    align-items: center;
 }
 
 .icon {
@@ -34,4 +37,8 @@
 
 .search-field {
     color: gray;
+}
+
+.stuff {
+    padding-right: 25px;
 }
