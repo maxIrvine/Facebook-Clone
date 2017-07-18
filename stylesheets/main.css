@@ -15,9 +15,10 @@
     align-items: center;
 }
 
+/* Consider a more descriptive class name?  */
 .options {
     display: flex;
-    justify-content: flex-end; 
+    justify-content: flex-end;
     align-items: center;
 }
 
@@ -26,6 +27,9 @@
     padding-left: 10px;
 }
 
+
+/* It might be useful to make note of when you
+add styles to a class that comes from a third-party library.  */
 .fa {
     color: rgb(99, 107, 121);
     padding-left: 5px;
@@ -37,6 +41,7 @@
     color: gray;
 }
 
+/* Consider a more descriptive class name?  :) */
 .stuff {
     padding-right: 40px;
 }
@@ -49,6 +54,10 @@
     padding-top: 30px;
 }
 
+/* While not the most terrible thing in the world,
+negative margins are considered a bit of a "hack" ;)
+Try to avoid, or add comments to your CSS when you do
+use them explaining why.  */
 .create-a-post {
     margin-left: -50px;
     padding-top: 1px;
